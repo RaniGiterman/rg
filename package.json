@@ -1,12 +1,12 @@
 {
-  "name": "rg",
-  "version": "1.0.0",
+  "name": "argee",
+  "version": "1.0.1",
   "description": "",
   "main": "interpreter.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": ["programming", "language", "js", "rg"],
   "author": "",
   "license": "ISC",
   "dependencies": {
