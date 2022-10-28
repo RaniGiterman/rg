@@ -61,7 +61,7 @@ To run the file, run the following from the root of your project: `node node_mod
 <br>
 rg inspires to be yet another language you can add to your arsenal of skills and programming languages, then forget about it and move on in life.
 <br>
-rg's interpreter is written in Javascript, making it one of the slowest languages on earth.
+rg's interpreter is written in Javascript, making it one of the slowest languages of all time.
 
 <h1>
 💎 Installation 💎
