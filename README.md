@@ -2,7 +2,8 @@
  📘 About the package 📘
 </h1>
 This is the official interpreter for the rg language.
-Happy coding!
+<br>
+Make sure to star the github repository!
 
 <h1>
  💙 Get started 💙
@@ -48,20 +49,22 @@ To get the value of a variable, write a dollar sign ($), then the name of the va
 To run the file, run the following from the root of your project: `node node_modules/argee/interpreter.js`
 
 <h1> 
- RG VISION
+ 🔵 About RG 🔵
 </h1>
 
-There is no such thing as nested for loops, nor nested ifs.
-There is no such thing as else or else-ifs, as rg encourages you to confidently state all possible conditions.
-If you do write them, you will most likely receive an unexpected result, if not a compile error.
+- nested for loops and nested ifs are not supported.
+  <br>
+- If you do write them, you will most likely receive an unexpected result, if not a compile error.
+  <br>
+- There is no such thing as else or else-ifs, as rg encourages you to confidently state all possible conditions.
 
+<br>
 rg inspires to be yet another language you can add to your arsenal of skills and programming languages, then forget about it and move on in life.
-rg is an extremely simple programming language, that complies to JS code.
+<br>
+rg's interpreter is written in Javascript, making it one of the slowest languages on earth.
 
 <h1>
-
 💎 Installation 💎
-
 </h1>
 
 ```
